@@ -155,7 +155,7 @@ body {
 }
 
 .botoes__rodape:active {
-    color: var(--cor-botao-pressionado);
+    color: red;
 }
 
 .container__botao:hover {
